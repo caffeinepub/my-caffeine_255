@@ -614,7 +614,7 @@ function AssessmentSection() {
                 <div className="absolute -inset-3 border border-primary/20 rounded-sm pointer-events-none" />
                 <div className="absolute -inset-6 border border-primary/8 rounded-sm pointer-events-none" />
                 <img
-                  src="/assets/uploads/qrcode.jpg"
+                  src="/assets/uploads/qrcode.png"
                   alt="企业运营健康度与风控自测二维码"
                   className="w-60 h-60 object-contain rounded-sm bg-white p-2 shadow-xs"
                   loading="lazy"
